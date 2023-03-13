@@ -1,6 +1,6 @@
 async function obtenerEmpleados () {
     
-    const archivo = 'empleados.json';
+    const archivo = "./empleados.json";
 
     // fetch(archivo) //Toma una url
     //     .then( resultado =>  resultado.json ())
